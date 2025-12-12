@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu Ramba</h1>
-<h3 align="center">AI/ML Developer | Deep Learning | Quantum Image Processing Enthusiast</h3>
+<h3 align="center">AI/ML Developer | Deep Learning | Quantum computing</h3>
 
 ---
 
@@ -69,14 +69,18 @@ A custom CNN for real-time mask detection.
 ## 📚 Education
 - B.Tech in Computer Science — **RGUKT Srikakulam**  
   GPA: **9.5/10**  
-- Pre-University Course — GPA **9.95/10**
+- Pre-University Course —  **RGUKT Srikakulam**  
+- GPA **9.95/10**
+- High School- **Abhyudaya High School**
+- GPA **10/10**
+- 
 
 ---
 
 ## 📫 Contact Me
 - **Email:** madhusn2014@gmail.com  
-- **LinkedIn:** *Add your link here*  
-- **GitHub:** *Add your username here*  
+- **LinkedIn:** http://www.linkedin.com/in/madhu-ramba-2014mb
+- **GitHub:** Rambamadhu  
 
 ---
 
