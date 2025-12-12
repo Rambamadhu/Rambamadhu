@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhu Ramba</h1>
-<h3 align="center">AI/ML Developer | Deep Learning | Quantum computing</h3>
+<h3 align="center">AI/ML Enthusiast | Deep Learning | Quantum computing</h3>
 
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJxenYzNGh4ZTN1dW1iY2dyM2JlbDNkazNybGRxOG10d3RtdTNtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/> </p>
 
