@@ -1,134 +1,83 @@
+<h1 align="center">Hi 👋, I'm Madhu Ramba</h1>
+<h3 align="center">AI/ML Developer | Deep Learning | Quantum Image Processing Enthusiast</h3>
 
+---
 
-🌟 Madhu Ramba — AI/ML Engineer | Quantum Computing Enthusiast
-Building Intelligent Systems | Exploring Quantum Worlds | Turning Ideas into Reality
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJxenYzNGh4ZTN1dW1iY2dyM2JlbDNkazNybGRxOG10d3RtdTNtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/> </p>
-🚀 About Me
+## 🚀 About Me
+I'm a passionate Computer Science student specializing in:
 
-Hi! I'm Madhu, a passionate Computer Science Engineer specializing in:
+- Machine Learning & Deep Learning  
+- Speech & Audio Processing  
+- Quantum Image Processing (NEQR, FRQI, QCQI, Qiskit)  
+- Generative AI, LLMs & RAG  
+- Computer Vision & OpenCV  
+- Real-world AI applications and deployment  
 
-🤖 Machine Learning & Deep Learning
+I love research, exploring new technologies, and building intelligent systems that solve real problems.
 
-🎙 Speech, Audio & Signal Processing
+---
 
-🧬 Quantum Image Processing (NEQR, FRQI, QCQI, Qiskit)
+## 🧠 Skills
 
-🧠 Generative AI • LLMs • RAG
+### **Programming**
+- Python, SQL, C, Java, HTML, CSS  
 
-👁 Computer Vision • OpenCV
+### **Frameworks & Libraries**
+- PyTorch, TensorFlow, Scikit-learn  
+- Streamlit, Flask, OpenCV  
 
-🛠 Real-world AI systems & deployment
+### **Quantum Computing**
+- Qiskit  
+- Quantum Image Models (NEQR, FRQI, NCQI, OCQR)
 
-I love solving problems, researching advanced AI concepts, and turning them into real projects.
+### **Developer Tools**
+- Git, GitHub, Docker  
 
-🏅 Skills & Technologies
-🔧 Programming & Tools
+---
 
+## 🛠 Projects
 
+### 🔹 **Qubit Odyssey — Quantum State Visualizer**
+Built a visualizer for multi-qubit states with Bloch sphere plots, partial tracing, and circuit simulation.  
+**Tech:** Qiskit, Python, Flask
 
+### 🔹 **PathFinder AI — Student Career Predictor**
+ML system that predicts student career paths using academic and skill features.  
+**Tech:** Scikit-learn, Python
 
+### 🔹 **AI Resume Screening (Mini ATS)**
+Automatic resume parsing, TF-IDF matching, ranking candidates via cosine similarity, Streamlit UI.  
+**Tech:** Python, SQLite, Streamlit
 
+### 🔹 **Facial Recognition Attendance System**
+Real-time face detection + recognition for automated attendance.  
+**Tech:** OpenCV, Python
 
+### 🔹 **Face Mask Detection (CNN)**
+A custom CNN for real-time mask detection.  
+**Tech:** TensorFlow/Keras
 
+---
 
-🤖 AI/ML Frameworks
+## 🏆 Achievements
+- Semi-Finalist — **Amaravathi Quantum Valley Hackathon (AQVH912)**  
+- **8th Rank** — National Analytical Aptitude Test (NAAT)  
+- Multiple **NPTEL Certifications** (LLMs, Data Science, Deep Learning, OOP, etc.)
 
+---
 
+## 📚 Education
+- B.Tech in Computer Science — **RGUKT Srikakulam**  
+  GPA: **9.5/10**  
+- Pre-University Course — GPA **9.95/10**
 
+---
 
+## 📫 Contact Me
+- **Email:** madhusn2014@gmail.com  
+- **LinkedIn:** *Add your link here*  
+- **GitHub:** *Add your username here*  
 
+---
 
-
-
-🧪 Quantum Technologies
-
-🛠 Developer Tools
-
-
-
-
-
-
-
-
-
-
-🚧 Projects
-🔹 🔭 Qubit Odyssey — Quantum State Visualizer
-
-Built using Qiskit, Flask, Matplotlib
-
-Supports multi-qubit state simulation, partial tracing, Bloch sphere visualization
-
-🔹 🎯 PathFinder AI — Student Career Prediction
-
-ML classification system using SVM, Random Forest
-
-Feature engineering + optimized accuracy
-
-Helps guide students' career decisions
-
-🔹 📄 AI-Powered ATS Resume Screener
-
-Upload any PDF/DOCX file
-
-Extract content → match with job descriptions
-
-Ranks candidates using TF-IDF + Cosine Similarity
-
-Full Streamlit dashboard
-
-🔹 🧑‍🏫 Facial Recognition Attendance System
-
-Real-time face detection + recognition
-
-Automated attendance logging
-
-Built using OpenCV + Deep Learning
-
-🔹 😷 Real-Time Face Mask Detection (CNN)
-
-Custom CNN architecture
-
-Detects masked/unmasked faces live
-
-🏆 Achievements
-
-🥈 Semi-Finalist — Amaravathi Quantum Valley Hackathon (AQVH912)
-
-🏅 8th Rank — National Analytical Aptitude Test (NAAT)
-
-🎓 Completed multiple NPTEL certifications:
-
-LLMs
-
-Data Science with Python
-
-Deep Learning
-
-Object-Oriented Design
-
-Data Structures with Python
-
-🌱 Currently Exploring
-
-Quantum Image Division & Interpolation
-
-Hybrid Quantum-Classical ML Models
-
-Advanced Speech Enhancement Networks
-
-Generative AI + RAG + Agents
-
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" /> </p>
-🎯 Portfolio
-
-🔗 Add your personal portfolio link here (optional)
-
-📬 Let’s Connect
-
-📧 Email: madhusn2014@gmail.com
-
-🔗 LinkedIn: add your link here
-🐙 GitHub: your profile link
+⭐ *If you like my work, consider giving a star to my repositories!*
