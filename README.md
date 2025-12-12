@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhu Ramba</h1>
-<h3 align="center">AI/ML Enthusiast | Deep Learning | Quantum computing</h3>
+<h3 align="center">AI/ML Enthusiast | Deep Learning | Quantum Computing</h3>
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJxenYzNGh4ZTN1dW1iY2dyM2JlbDNkazNybGRxOG10d3RtdTNtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJxenYzNGh4ZTN1dW1iY2dyM2JlbDNkazNybGRxOG10d3RtdTNtMCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
+</p>
 
 ---
 
@@ -18,6 +20,37 @@ I'm a passionate Computer Science student specializing in:
 I love research, exploring new technologies, and building intelligent systems that solve real problems.
 
 ---
+
+## 💼 Experience
+
+### 🔹 **Audio AI Intern**
+- Worked on deep learning models for:
+  - Speech enhancement  
+  - Noise suppression    
+- Performed experiments with audio spectrograms, masking, and model architectures.  
+
+### 🔹 **Amazon ML Summer School 2025**
+- Gained hands-on exposure to advanced ML concepts directly from Amazon Scientists.  
+- Completed 8 intensive modules:
+  - Supervised Learning  
+  - Deep Neural Networks  
+  - Dimensionality Reduction  
+  - Unsupervised Learning  
+  - Generative AI & LLMs  
+  - Sequential Learning  
+  - Causal Inference  
+  - Reinforcement Learning  
+
+---
+
+### 🔹 **Summer Research Intern — Quantum Image Processing (NIT Warangal)**
+- Worked on Quantum Image Processing (QIP) algorithms.  
+- Studied NEQR, FRQI, and quantum image enhancement techniques.  
+- Implemented quantum circuits for representation & analysis in Qiskit.  
+- Participated in research discussions and reviews with professors.
+
+---
+
 
 ## 🧠 Skills
 
@@ -69,20 +102,21 @@ A custom CNN for real-time mask detection.
 ---
 
 ## 📚 Education
-- B.Tech in Computer Science — **RGUKT Srikakulam**  
+- **B.Tech in Computer Science — RGUKT Srikakulam**  
   GPA: **9.5/10**  
-- Pre-University Course —  **RGUKT Srikakulam**  
-- GPA **9.95/10**
-- High School- **Abhyudaya High School**
-- GPA **10/10**
-- 
+
+- **Pre-University Course — RGUKT Srikakulam**  
+  GPA: **9.95/10**
+
+- **High School — Abhyudaya High School**  
+  GPA: **10/10**
 
 ---
 
 ## 📫 Contact Me
 - **Email:** madhusn2014@gmail.com  
-- **LinkedIn:** http://www.linkedin.com/in/madhu-ramba-2014mb
-- **GitHub:** Rambamadhu  
+- **LinkedIn:** https://www.linkedin.com/in/madhu-ramba-2014mb  
+- **GitHub:** https://github.com/Rambamadhu  
 
 ---
 
