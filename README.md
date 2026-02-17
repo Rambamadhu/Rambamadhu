@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I'm a passionate Computer Science student specializing in:
 
 - Machine Learning & Deep Learning  
@@ -50,7 +50,7 @@ I love research, exploring new technologies, and building intelligent systems th
 ---
 
 
-## 🧠 Skills
+## Skills
 
 ### **Programming**
 - Python, SQL, C, Java, HTML, CSS  
@@ -68,7 +68,7 @@ I love research, exploring new technologies, and building intelligent systems th
 
 ---
 
-## 🛠 Projects
+##  Projects
 
 ### 🔹 **Qubit Odyssey — Quantum State Visualizer**
 Built a visualizer for multi-qubit states with Bloch sphere plots, partial tracing, and circuit simulation.  
@@ -92,14 +92,14 @@ A custom CNN for real-time mask detection.
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 - Semi-Finalist — **Amaravathi Quantum Valley Hackathon (AQVH912)**  
 - **8th Rank** — National Analytical Aptitude Test (NAAT)  
 - Multiple **NPTEL Certifications** (LLMs, Data Science, Deep Learning, OOP, etc.)
 
 ---
 
-## 📚 Education
+##  Education
 - **B.Tech in Computer Science — RGUKT Srikakulam**  
   GPA: **9.5/10**  
 
@@ -111,7 +111,7 @@ A custom CNN for real-time mask detection.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - **Email:** madhusn2014@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/madhu-ramba-2014mb  
 - **GitHub:** https://github.com/Rambamadhu  
